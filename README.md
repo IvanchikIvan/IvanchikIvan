@@ -87,6 +87,8 @@ Ever since I discovered the world of web development, I've been fascinated by it
 ## Actually, you can show me your ❤ by starring some of my repositories.
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://ivanchikivan.github.io/Ivanchik-Portfolio/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=englishdeveloper92@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=https://github.com/IvanchikIvan)
 
 </div>
 
