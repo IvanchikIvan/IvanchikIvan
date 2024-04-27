@@ -39,7 +39,6 @@ Ever since I discovered the world of web development, I've been fascinated by it
 <img src="https://i.imgur.com/VBd4aS3.png" height="60" width="60">
 <img src="https://i.imgur.com/JcUsLfc.png" height="60" width="60">
 <img src="https://i.imgur.com/9Ulh3vX.png" height="60" width="60">
-<img src="https://i.imgur.com/apxFVxR.png" height="60" width="60">
 <img src="https://imgur.com/9FgfeLM.png" height="60" width="60">
 <img src="https://imgur.com/F6N4HUt.png" height="60" width="60">
 <img src="https://i.imgur.com/t74wIVs.png" height="60" width="60">
